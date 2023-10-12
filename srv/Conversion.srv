@@ -1,0 +1,7 @@
+sensor_msgs/NavSatFix gps_request
+geometry_msgs/Pose pose_request
+
+---
+
+sensor_msgs/NavSatFix gps_response
+geometry_msgs/Pose pose_response
