@@ -1,7 +1,9 @@
+std_msgs/String conversion_target
 sensor_msgs/NavSatFix gps_request
 geometry_msgs/Pose pose_request
 
 ---
 
+std_msgs/String conversion_target
 sensor_msgs/NavSatFix gps_response
 geometry_msgs/Pose pose_response
